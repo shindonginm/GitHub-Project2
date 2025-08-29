@@ -2,3 +2,4 @@
 
 - Push Test
 - Fatch Test
+- Pull Test
